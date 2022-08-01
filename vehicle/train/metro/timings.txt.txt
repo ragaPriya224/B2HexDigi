@@ -1,0 +1,1 @@
+train starts at platform 1
